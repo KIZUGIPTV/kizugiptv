@@ -9,10 +9,6 @@ http://s25617.cdn.ngenix.net/mdrm/CH_VSETVHD/variant.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 group-title="🧭ТЕСТ🧭",Malder vse tv
 https://s.catcast.tv/content/43064/index.m3u8?token=34eb2ce635fb7f41b1fc1ca5ee3ea6d9
 #EXTINF:-1 group-title="🧭ТЕСТ🧭" tvg-id="no_epg_cinema",Кино Джем
@@ -7353,6 +7349,7 @@ https://stream.pcradio.ru/rad_rtrclbrdttr-med
 
 #EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/65f5fac00ac67.jpg" tvg-id="no_epg_radio", Старый Портфель Радио
 https://stream.pcradio.ru/rad_oldportfl-med
+
 
 
 
